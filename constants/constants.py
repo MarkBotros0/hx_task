@@ -1,0 +1,5 @@
+import os
+
+OUTPUT_PATH = os.path.join('output', 'data.json')
+FIXED_PREMIUM_FOR_NON_FLYING_DRONES = 150
+FIXED_PREMIUM_FOR_NON_FLYING_CAMERAS = 50
